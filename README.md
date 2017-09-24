@@ -1,3 +1,0 @@
-# wpng
-
-wordpress for openshift

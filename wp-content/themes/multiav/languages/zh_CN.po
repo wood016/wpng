@@ -1,0 +1,1252 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: ShuiSky Theme\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-05-08 00:23+0800\n"
+"PO-Revision-Date: 2013-05-08 00:23+0800\n"
+"Last-Translator: \n"
+"Language-Team: ShuiSky (www.shuisky.com) <info@shuisky.com>\n"
+"Language: zh_CN\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: ../\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: archive.php:39
+#, php-format
+msgid "Daily Archives: <span>%s</span>"
+msgstr "按日归档：<span>%s</span>"
+
+#: archive.php:43
+#, php-format
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "按月归档：<span>%s</span>"
+
+#: archive.php:47
+#, php-format
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "按年归档：<span>%s</span>"
+
+#: archive.php:60
+msgid "Blog Archives"
+msgstr "博客归档"
+
+#: comments.php:17
+msgid ""
+"This post is password protected. Enter the password to view any comments."
+msgstr "此文章受密码保护。请输入密码以查看相关评论。"
+
+#: comments.php:25
+msgid "Newer Comments <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新的评论 <span class=\"meta-nav\">&rarr;</span>"
+
+#: comments.php:26
+msgid "<span class=\"meta-nav\">&larr;</span> Older Comments"
+msgstr "<span class=\"meta-nav\">&larr;</span> 较旧的评论"
+
+#: comments.php:52 legacy-comments.php:33
+msgid "Leave a Reply"
+msgstr "留下回复"
+
+#: comments.php:52
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr "发表回复 %s"
+
+#: comments.php:55 legacy-comments.php:35
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr "您必须<a href=\"%s\">登录</a>发表评论。"
+
+#: comments.php:59
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+"以此身份登录<a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"登陆该帐户\">"
+"退出登录？</a>"
+
+#: comments.php:62 legacy-comments.php:43
+msgid "Name"
+msgstr "名字"
+
+#: comments.php:62 comments.php:64 legacy-comments.php:43
+#: legacy-comments.php:45
+msgid "(required)"
+msgstr "(必填)"
+
+#: comments.php:64
+msgid "Your email address will not be published."
+msgstr "您的电子邮件地址不会被公开。"
+
+#: comments.php:66 legacy-comments.php:47
+msgid "Website"
+msgstr "网站"
+
+#: comments.php:68
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+"您可以使用这些 <abbr title=\"超文本标记语言\">HTML</abbr> 标记和属性： %s"
+
+#: comments.php:72 legacy-comments.php:52
+msgid "Submit Comment"
+msgstr "提交评论"
+
+#: content-attachment.php:28
+#, php-format
+msgid "Return to %s"
+msgstr "返回到 %s"
+
+#: content-attachment.php:29
+#, php-format
+msgid "<span class=\"meta-nav\">&larr;</span> %s"
+msgstr "<span class=\"meta-nav\">&larr;</span> %s"
+
+#: content-attachment.php:80
+#, php-format
+msgid "Full size is %s pixels"
+msgstr "原大小为 %s 像素"
+
+#: content-attachment.php:83
+msgid "Link to full-size image"
+msgstr "链接到完整大小的图像"
+
+#: footer.php:6
+msgid "Apply Link"
+msgstr "友情链接"
+
+#: footer.php:24
+msgid "Copyright&nbsp;&#169;&nbsp;2011-2012&nbsp;"
+msgstr "版权所有&nbsp;&#169;&nbsp;2011-2012&nbsp;"
+
+#: footer.php:24
+msgid "&nbsp;All Rights Reserved!"
+msgstr "&nbsp;保留所有权利！"
+
+#: footer.php:24
+msgid "Theme By"
+msgstr "主题发布"
+
+#: footer.php:25
+#, php-format
+msgid "Mailto WebMaster : %s, replace # as @"
+msgstr "联系站长：%s，请将#替换成@。"
+
+#: footer.php:37
+#, php-format
+msgid "%d queries. %s seconds."
+msgstr "%d 查询. %s 秒."
+
+#: functions.php:53
+msgid "Primary Navigation"
+msgstr "主导航"
+
+#: functions.php:61 library/admins.php:156 library/admins.php:163
+#: library/widgets.php:88
+msgid "Theme Options"
+msgstr "主题选项"
+
+#: functions.php:138
+#, php-format
+msgid "<span class=\"%1$s\">Published</span> %2$s"
+msgstr "<span class=\"%1$s\">生产日期：</span> %2$s"
+
+#: functions.php:147
+#, php-format
+msgid "<span class=\"%1$s\">By</span> %2$s"
+msgstr "<span class=\"%1$s\">生产工人：</span> %2$s"
+
+#: functions.php:151
+#, php-format
+msgid "View all posts by %s"
+msgstr "查看全部文章 %s"
+
+#: functions.php:159
+#, php-format
+msgid "<span class=\"%1$s\">Posted in</span> %2$s"
+msgstr "<span class=\"%1$s\">本文分类：</span> %2$s"
+
+#: functions.php:164
+#, php-format
+msgid "<span class=\"%1$s\">Tagged</span> %2$s"
+msgstr "<span class=\"%1$s\">本文标签：</span> %2$s"
+
+#: functions.php:169
+msgid "Leave a comment"
+msgstr "发表评论"
+
+#: functions.php:169
+msgid "1 Comment"
+msgstr "1 评论"
+
+#: functions.php:169
+msgid "% Comments"
+msgstr "% 评论"
+
+#: functions.php:175 legacy-comments.php:24
+msgid "Edit"
+msgstr "编辑"
+
+#: functions.php:182
+#, php-format
+msgid ""
+"<span class=\"%1$s\">Permalink:</span> <a href=\"%2$s\">%3$s</a> "
+"[Reproduced, please indicate this source, and links to articles]"
+msgstr ""
+"<span class=\"%1$s\">文章链接：</span> <a href=\"%2$s\">%3$s</a> [转载时请注"
+"明本文出处及文章链接]"
+
+#: functions.php:188
+#, php-format
+msgid "<span class=\"%1$s\"><a href=\"%2$s\">Read More...</a> </span> "
+msgstr "<span class=\"%1$s\"><a href=\"%2$s\"> 详细阅读 </a> </span> "
+
+#: functions.php:206
+#, php-format
+msgid "<span class=\"%1$s\"></span> %2$s"
+msgstr "<span class=\"%1$s\"></span> %2$s"
+
+#: functions.php:262 functions.php:279
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "继续阅读 <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:267 library/options.php:22
+msgid "Pages"
+msgstr "Pages"
+
+#: functions.php:380
+msgid "Not Found"
+msgstr "没有找到"
+
+#: functions.php:381
+msgid ""
+"Apologies, but the page you requested could not be found. Perhaps searching "
+"will help."
+msgstr "抱歉，您请求的页面未能找到。请尝试检索相关页面。"
+
+#: functions.php:440
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr "较新的文章 <span class=\"meta-nav\">&rarr;</span>"
+
+#: functions.php:441
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr "<span class=\"meta-nav\">&larr;</span> 较旧的文章"
+
+#: functions.php:523
+msgid "Previous Post"
+msgstr "上一篇文章"
+
+#: functions.php:523
+msgid "Next Post"
+msgstr "下一篇文章"
+
+#: functions.php:576
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr "%s <span class=\"says\">说：</span>"
+
+#: functions.php:579 legacy-comments.php:20
+msgid "Your comment is awaiting moderation."
+msgstr "您的评论正在等待审核。"
+
+#: functions.php:585
+#, php-format
+msgid "%1$s at %2$s"
+msgstr "%1$s 在 %2$s"
+
+#: functions.php:585 functions.php:604
+msgid "(Edit)"
+msgstr "（编辑）"
+
+#: functions.php:604
+msgid "Pingback:"
+msgstr "引用通告："
+
+#: functions.php:707
+msgid "Navigation:"
+msgstr "当前位置："
+
+#: functions.php:707
+msgid "HOME"
+msgstr "首页"
+
+#: functions.php:737
+msgid "&laquo; Previous"
+msgstr "&laquo; 上一个"
+
+#: functions.php:745
+msgid "Next &raquo;"
+msgstr "下一个 &raquo;"
+
+#: functions.php:838
+#, php-format
+msgid "Link to %s"
+msgstr "链接 %s"
+
+#: header.php:18
+#, php-format
+msgid "%s RSS Feed"
+msgstr "%s RSS Feed"
+
+#: header.php:19
+#, php-format
+msgid "%s Atom Feed"
+msgstr "%s Atom Feed"
+
+#: legacy-comments.php:6
+msgid "This post is password protected. Enter the password to view comments."
+msgstr "此文章受密码保护。输入密码以查看评论。"
+
+#: legacy-comments.php:10
+msgid "No Responses"
+msgstr "没有响应"
+
+#: legacy-comments.php:10
+msgid "One Response"
+msgstr "一个响应"
+
+#: legacy-comments.php:10
+msgid "% Responses"
+msgstr "% 响应"
+
+#: legacy-comments.php:10
+#, php-format
+msgid "to &#8220;%s&#8221;"
+msgstr "to &#8220;%s&#8221;"
+
+#: legacy-comments.php:24
+msgid "F jS, Y"
+msgstr "F jS, Y"
+
+#: legacy-comments.php:39
+#, php-format
+msgid "Logged in as <a href=\"%1$s\">%2$s</a>."
+msgstr "登录身份 <a href=\"%1$s\">%2$s</a>。"
+
+#: legacy-comments.php:40
+msgid "Log out of this account"
+msgstr "退出该帐户登录"
+
+#: legacy-comments.php:40
+msgid "Log out &raquo;"
+msgstr "退出登录 &raquo;"
+
+#: legacy-comments.php:45
+msgid "Mail (will not be published)"
+msgstr "邮件（不会被公开）"
+
+#: search.php:21
+#, php-format
+msgid "Search Results for: %s"
+msgstr "搜索结果： %s"
+
+#: search.php:45
+msgid "Nothing Found"
+msgstr "未找到任何信息"
+
+#: search.php:46
+msgid ""
+"Sorry, but nothing matched your search criteria. Please try again with some "
+"different keywords."
+msgstr "抱歉，没有符合您搜索条件。请再次尝试一些不同的关键字。"
+
+#: sidebar-default.php:14 library/widgets.php:109
+msgid "Vertical Menu"
+msgstr "垂直菜单"
+
+#: sidebar-default.php:18
+msgid "Search"
+msgstr "搜索"
+
+#: sidebar-default.php:24
+msgid "Archives"
+msgstr "Archivi"
+
+#: sidebar-default.php:30 library/options.php:23
+msgid "Categories"
+msgstr "分类"
+
+#: library/admins.php:39
+msgid "Settings saved."
+msgstr "设置已保存。"
+
+#: library/admins.php:45
+msgid "Settings restored."
+msgstr "设置还原。"
+
+#: library/admins.php:50
+msgid "Save Changes"
+msgstr "保存更改"
+
+#: library/admins.php:51
+msgid "Reset to Default"
+msgstr "重置为默认值"
+
+#: library/defaults.php:41
+msgid "Tag Cloud"
+msgstr "标签云"
+
+#: library/defaults.php:43
+msgid "Random posts"
+msgstr "推荐文章"
+
+#: library/navigation.php:219
+#, php-format
+msgid "View all posts in %s"
+msgstr "查看所有文章 %s"
+
+#: library/options.php:7
+msgid "Footer"
+msgstr "页脚"
+
+#: library/options.php:12 library/options.php:104
+msgid "Footer content"
+msgstr "页脚内容"
+
+#: library/options.php:13 library/options.php:98 library/options.php:105
+#: library/options.php:140 library/options.php:153
+#, php-format
+msgid "<strong>XHTML:</strong> You can use these tags: <code>%s</code>"
+msgstr "<strong>XHTML:</strong> 您可以使用这些标记： <code>%s</code>"
+
+#: library/options.php:14 library/options.php:99 library/options.php:106
+#: library/options.php:141 library/options.php:154
+#, php-format
+msgid "<strong>ShortTags:</strong><code>%s</code>"
+msgstr "<strong>短标记格式：</strong><code>%s</code>"
+
+#: library/options.php:27
+msgid "Block style"
+msgstr "区块样式"
+
+#: library/options.php:28
+msgid "Post style"
+msgstr "文章样式"
+
+#: library/options.php:29
+msgid "Simple text"
+msgstr "简单文本"
+
+#: library/options.php:33
+msgid "<H1>"
+msgstr "<H1>"
+
+#: library/options.php:34
+msgid "<H2>"
+msgstr "<H2>"
+
+#: library/options.php:35
+msgid "<H3>"
+msgstr "<H3>"
+
+#: library/options.php:36
+msgid "<H4>"
+msgstr "<H4>"
+
+#: library/options.php:37
+msgid "<H5>"
+msgstr "<H5>"
+
+#: library/options.php:38
+msgid "<H6>"
+msgstr "<H6>"
+
+#: library/options.php:39
+msgid "<DIV>"
+msgstr "<DIV>"
+
+#: library/options.php:43
+msgid "multi thum"
+msgstr "首页多图"
+
+#: library/options.php:44
+#, fuzzy
+msgid "list type"
+msgstr "文章列表"
+
+#: library/options.php:55
+msgid "General"
+msgstr "常规设置"
+
+#: library/options.php:60
+msgid "Home Page Type"
+msgstr "首页显示方式"
+
+#: library/options.php:63
+msgid "Home page display type 1->list type; 0->multi thum"
+msgstr "首页显示方式：文章列表，首页多图"
+
+#: library/options.php:67
+msgid "Homepage display post by catagory id"
+msgstr "首页按分类ID显示文章"
+
+#: library/options.php:69
+#, php-format
+msgid ""
+"<br><strong>Example : </strong> Input \"1,3,5\" this catagory willbe display "
+"in home page. left empty this option will be disable <p> catagory list : %s"
+msgstr ""
+"<br><strong>示例：</strong> 输入 \"1,3,5\" ,则分类为1,3,5下的文章将会在首页分"
+"栏显示。留空为不启用。<p> 分类列表如下：%s"
+
+#: library/options.php:73
+msgid "Homepage display how many post by catagory id"
+msgstr "首页按分类ID显示文章数量"
+
+#: library/options.php:75
+msgid "<br><strong>Example : </strong> Default: 20 "
+msgstr "<br><strong>示例 ：</strong>默认： 20 "
+
+#: library/options.php:79
+msgid "Show headline"
+msgstr "显示标题"
+
+#: library/options.php:80 library/options.php:86 library/options.php:112
+#: library/options.php:124 library/options.php:147 library/options.php:160
+#: library/options.php:170 library/options.php:181 library/options.php:188
+#: library/options.php:220 library/options.php:227 library/options.php:234
+#: library/options.php:241 library/options.php:247 library/options.php:253
+#: library/options.php:265 library/options.php:271 library/options.php:329
+#: library/options.php:371 library/options.php:456 library/options.php:484
+#: library/options.php:490 library/options.php:501 library/options.php:511
+msgid "Yes"
+msgstr "启用"
+
+#: library/options.php:85
+msgid "Show slogan"
+msgstr "显示标语口号"
+
+#: library/options.php:91
+msgid "Header Logo"
+msgstr "页眉图标"
+
+#: library/options.php:92
+msgid ""
+"<br><strong>Example : </strong> http://www.example.com/path/of/image/logo."
+"jpg ,You can use these Logo url"
+msgstr ""
+"<br><strong>示例：</strong> http://www.example.com/path/of/image/logo.jpg ，"
+"设定网站LOGO的地址。"
+
+#: library/options.php:97
+msgid "Header content"
+msgstr "页眉内容"
+
+#: library/options.php:111
+msgid "Show random posts on 404 page"
+msgstr "404页显示随机文章"
+
+#: library/options.php:117
+msgid "Title for random posts"
+msgstr "随机文章的标题"
+
+#: library/options.php:119
+msgid "Used when \"Show random posts on 404 page\" is enabled"
+msgstr "当\"404页显示随机文章\"启用时使用"
+
+#: library/options.php:123
+msgid "Show tags on 404 page"
+msgstr "404页显示标签"
+
+#: library/options.php:129
+msgid "Title for tags"
+msgstr "标题的标签"
+
+#: library/options.php:131
+msgid "Used when \"Show tags on 404 page\" is enabled"
+msgstr "当\"404页显示标签\" 启用时使用"
+
+#: library/options.php:134
+msgid "Ads Scripts"
+msgstr "广告脚本"
+
+#: library/options.php:139
+msgid "Header Bottom Ads Content"
+msgstr "页眉底部广告位内容"
+
+#: library/options.php:146
+msgid "Show Header Bottom Ads"
+msgstr "显示页眉底部广告"
+
+#: library/options.php:152
+msgid "Single Artcle Ads Content"
+msgstr "文章内容页面广告"
+
+#: library/options.php:159
+msgid "Show Single Artcle Ads"
+msgstr "显示文章内容页面广告"
+
+#: library/options.php:164
+msgid "Navigation Menu"
+msgstr "导航菜单"
+
+#: library/options.php:169
+msgid "Show home item"
+msgstr "显示首页项目"
+
+#: library/options.php:175
+msgid "Home item caption"
+msgstr "首页项目标题"
+
+#: library/options.php:180
+msgid "Highlight active categories"
+msgstr "高亮显示激活分类"
+
+#: library/options.php:187
+msgid "Trim long menu items"
+msgstr "截取过长的菜单项"
+
+#: library/options.php:193
+msgid "Limit each item to [N] characters"
+msgstr "菜单项保留 [N] 个字符"
+
+#: library/options.php:194 library/options.php:201 library/options.php:259
+msgid "(characters)."
+msgstr "（字符）。"
+
+#: library/options.php:200
+msgid "Limit each subitem to [N] characters"
+msgstr "菜单子项保留 [N] 个字符"
+
+#: library/options.php:207
+msgid "Default menu source"
+msgstr "默认菜单源"
+
+#: library/options.php:210
+msgid "Displayed when Appearance > Menu > Primary menu is not set"
+msgstr "在 外观>菜单>菜单名称 没有设定时显示"
+
+#: library/options.php:213
+msgid "Posts"
+msgstr "文章页设定"
+
+#: library/options.php:219
+msgid "Show navigation links at the top of front posts page"
+msgstr "在文章页前（顶部）显示导航链接"
+
+#: library/options.php:226
+msgid "Show navigation links at the top of posts page"
+msgstr "在文章页的顶部显示导航链接"
+
+#: library/options.php:233
+msgid "Show navigation links at the bottom of posts page"
+msgstr "在文章页的底部显示导航链接"
+
+#: library/options.php:240
+msgid "Show top navigation links in single post view"
+msgstr "正文顶部显示导航链接"
+
+#: library/options.php:246
+msgid "Show bottom navigation links in single post view"
+msgstr "正文底部显示导航链接"
+
+#: library/options.php:252
+msgid "Trim long navigation links in single post view"
+msgstr "正文页截取过长的导航链接"
+
+#: library/options.php:258
+msgid "Limit each link to [N] characters"
+msgstr "限制每个链接[N]个字符"
+
+#: library/options.php:264
+msgid "Allow Comments"
+msgstr "允许评论"
+
+#: library/options.php:270
+msgid "Use smilies in comments"
+msgstr "在评论中使用表情符号"
+
+#: library/options.php:276
+msgid "Tag for the posts headline"
+msgstr "文章标题标签格式"
+
+#: library/options.php:282
+msgid "Tag for the posts slogan"
+msgstr "文章口号标签格式"
+
+#: library/options.php:288
+msgid "Tag for the posts article"
+msgstr "文章正文标签格式"
+
+#: library/options.php:294
+msgid "Tag for the posts widgets"
+msgstr "文章小工具标签格式"
+
+#: library/options.php:300
+msgid "Tag for the headline"
+msgstr "标题标签格式设定"
+
+#: library/options.php:306
+msgid "Tag for the single slogan"
+msgstr "单页文章口号格式"
+
+#: library/options.php:312
+msgid "Tag for the single article title"
+msgstr "单页文章标题标签格式"
+
+#: library/options.php:318
+msgid "Tag for the single widgets title"
+msgstr "单页小工具标题标签"
+
+#: library/options.php:323
+msgid "HOME Setting"
+msgstr "首页设定"
+
+#: library/options.php:328
+msgid "Use featured image as thumbnail"
+msgstr "特色图片作为缩略图"
+
+#: library/options.php:334
+msgid "Use auto thumbnails"
+msgstr "使用自动缩略图"
+
+#: library/options.php:335
+msgid ""
+"Generate post thumbnails automatically (use the first image from the post "
+"gallery)"
+msgstr "自动生成文章缩略图（使用文章所有图片中的第一张）"
+
+#: library/options.php:340
+msgid "Thumbnail width"
+msgstr "缩略图宽度"
+
+#: library/options.php:341 library/options.php:347
+msgid "(px)"
+msgstr "(像素)"
+
+#: library/options.php:346
+msgid "Thumbnail height"
+msgstr "缩略图高度"
+
+#: library/options.php:352
+msgid "Use auto excerpts"
+msgstr "启用自动截取摘要"
+
+#: library/options.php:353
+msgid ""
+"Generate post excerpts automatically (When neither more-tag nor post excerpt "
+"is used)"
+msgstr "自动生成文章摘录（当更多标签和文章摘录都没有启用时）"
+
+#: library/options.php:358
+msgid "Excerpt length"
+msgstr "摘要截取长度"
+
+#: library/options.php:359 library/options.php:365
+msgid "(words)"
+msgstr "（字）"
+
+#: library/options.php:364
+msgid "Excerpt balance"
+msgstr "摘要权衡"
+
+#: library/options.php:370
+msgid "Apply excerpt tag filter"
+msgstr "启用截取标签过滤器"
+
+#: library/options.php:376
+msgid "Allowed excerpt tags"
+msgstr "允许截取标签"
+
+#: library/options.php:377
+msgid "Used when \"Apply excerpt tag filter\" is enabled"
+msgstr "在\"启用截取标签过滤器\" 已启用时生效"
+
+#: library/options.php:381
+msgid "Sidebars"
+msgstr "侧边栏"
+
+#: library/options.php:383
+msgid "Default widgets style"
+msgstr "默认小工具样式"
+
+#: library/options.php:387
+msgid "Primary sidebar"
+msgstr "主要侧边栏"
+
+#: library/options.php:393
+msgid "Secondary sidebar"
+msgstr "辅助侧边栏"
+
+#: library/options.php:399
+msgid "Top sidebars"
+msgstr "页首侧边栏"
+
+#: library/options.php:405
+msgid "Bottom sidebars"
+msgstr "底部侧边栏"
+
+#: library/options.php:411
+msgid "Footer sidebars"
+msgstr "页脚侧边栏"
+
+#: library/options.php:416
+msgid "Advertisement"
+msgstr "广告短代码"
+
+#: library/options.php:418 library/options.php:425
+#, php-format
+msgid ""
+"Use the %s short code to insert these ads into posts, text widgets or footer"
+msgstr "使用%s短代码在文章，文本小工具或页脚中插入这些广告"
+
+#: library/options.php:419 library/options.php:426
+msgid "Example:"
+msgstr "示例："
+
+#: library/options.php:423 library/options.php:430 library/options.php:435
+#: library/options.php:440
+#, php-format
+msgid "Ad code #%s:"
+msgstr "广告代码 #%s:"
+
+#: library/options.php:444
+msgid "SEO Optimization "
+msgstr "SEO优化"
+
+#: library/options.php:449
+msgid "SEO Keyword"
+msgstr "SEO关键词"
+
+#: library/options.php:450
+msgid ""
+"<br><strong>Example : </strong>  Keyword_1,Keyword_2,Keyword_3 You can use "
+"these SEO keyword."
+msgstr ""
+"<br><strong>示例：</strong>  关键词_1,关键词_2,关键词_3 你可以在这里设定网站"
+"关键词，优化SEO。"
+
+#: library/options.php:455
+msgid "Enable SEO Auto Link"
+msgstr "启用SEO自动链接"
+
+#: library/options.php:461
+msgid "Min SEO Auto Link"
+msgstr "最小SEO链接数"
+
+#: library/options.php:462
+msgid "Limit min [N] link for each keyword"
+msgstr "限定每个SEO关键词链接最小数"
+
+#: library/options.php:467
+msgid "Max SEO Auto Link"
+msgstr "最大SEO链接数"
+
+#: library/options.php:468
+msgid "Limit max [N] link for each keyword"
+msgstr "限定每个SEO关键词链接最大数"
+
+#: library/options.php:473
+msgid "SEO Auto Link content"
+msgstr "SEO自动链接内容"
+
+#: library/options.php:474
+msgid ""
+"<strong>Example:</strong> You can use these SEO format: keyword|max_link_num|"
+"link_url, with \"|\""
+msgstr ""
+"<strong>示例：</strong> 您可以使用这些SEO格式： 关键词|最大链接数|链接地址，"
+"使用“|”分隔。"
+
+#: library/options.php:483
+msgid "Show in Menu"
+msgstr "在菜单中显示"
+
+#: library/options.php:489
+msgid "Show as Separator in Menu"
+msgstr "在菜单中作为分隔符显示"
+
+#: library/options.php:495
+msgid "Title in Menu"
+msgstr "菜单的标题"
+
+#: library/options.php:500
+msgid "Show Title on Page"
+msgstr "在页面上显示标题"
+
+#: library/options.php:510
+msgid "Show Title on Single Page"
+msgstr "单页上显示标题"
+
+#: library/shortcodes.php:18
+msgid "RSS Feeds"
+msgstr "RSS Feeds"
+
+#: library/shortcodes.php:34
+#, php-format
+msgid "Empty ad slot (#%s)!"
+msgstr "清空广告位(#%s)!"
+
+#: library/shortcodes.php:39
+msgid "Top"
+msgstr "页首"
+
+#: library/shortcodes.php:45
+msgid "Site Admin"
+msgstr "网站后台管理"
+
+#: library/shortcodes.php:46
+msgid "Log in"
+msgstr "登录"
+
+#: library/sidebars.php:6
+msgid "Primary Widget Area"
+msgstr "首要小工具区域"
+
+#: library/sidebars.php:8
+msgid ""
+"This is the default sidebar, visible on 2 or 3 column layouts. If no widgets "
+"are active, the default theme widgets will be displayed instead."
+msgstr ""
+"这是2或3列布局时默认的侧边栏。如果没有部件被激活，显示这个默认的小工具。"
+
+#: library/sidebars.php:12
+msgid "Secondary Widget Area"
+msgstr "辅助小工具区域"
+
+#: library/sidebars.php:14
+msgid "This sidebar is active only on a 3 column setup."
+msgstr "只有在3列模式下这个侧边栏才生效。"
+
+#: library/sidebars.php:18
+msgid "First Top Widget Area"
+msgstr "顶部小工具的第一区域"
+
+#: library/sidebars.php:20 library/sidebars.php:26
+msgid "This sidebar is displayed above the main content."
+msgstr "此边栏在主要内容的上方显示。"
+
+#: library/sidebars.php:24
+msgid "Second Top Widget Area"
+msgstr "顶部小工具的第二区域"
+
+#: library/sidebars.php:31
+msgid "First Bottom Widget Area"
+msgstr "底部小工具的第一个区域"
+
+#: library/sidebars.php:33 library/sidebars.php:39
+msgid "This sidebar is displayed below the main content."
+msgstr "此边栏在主要内容的下方显示。"
+
+#: library/sidebars.php:37
+msgid "Second Bottom Widget Area"
+msgstr "底部小工具的第二个区域"
+
+#: library/sidebars.php:44
+msgid "First Footer Widget Area"
+msgstr "页脚小工具的第一个区域"
+
+#: library/sidebars.php:46
+msgid ""
+"The first footer widget area. You can add a text widget for custom footer "
+"text."
+msgstr "页脚小工具第一个区域。您可以添加一个自定义页脚文本的文本小工具。"
+
+#: library/sidebars.php:50
+msgid "Second Footer Widget Area"
+msgstr "页脚小工具的第二个区域"
+
+#: library/sidebars.php:52
+msgid "The second footer widget area."
+msgstr "页脚小工具第二个区域。"
+
+#: library/sidebars.php:56
+msgid "Third Footer Widget Area"
+msgstr "页脚小工具的第三个区域"
+
+#: library/sidebars.php:58
+msgid "The third footer widget area."
+msgstr "页脚小工具第三个区域。"
+
+#: library/sidebars.php:62
+msgid "Fourth Footer Widget Area"
+msgstr "页脚小工具的第四个区域"
+
+#: library/sidebars.php:64
+msgid "The fourth footer widget area."
+msgstr "页脚小工具第四个区域。"
+
+#: library/widgets.php:5
+msgid "sidebar default"
+msgstr "侧边栏默认"
+
+#: library/widgets.php:6
+msgid "block"
+msgstr "区块"
+
+#: library/widgets.php:7
+msgid "post"
+msgstr "文章"
+
+#: library/widgets.php:8
+msgid "simple text"
+msgstr "简单文本"
+
+#: library/widgets.php:90
+msgid "Appearance"
+msgstr "外观"
+
+#: library/widgets.php:108
+msgid "Use this widget to add one of your custom menus as a widget."
+msgstr "使用这个小部件添加您的自定义菜单作为一个小部件。"
+
+#: library/widgets.php:145
+msgid "Title:"
+msgstr "标题："
+
+#: library/widgets.php:149
+msgid "Source"
+msgstr "来源"
+
+#: library/widgets.php:167
+#, php-format
+msgid "No menus have been created yet. <a href=\"%s\">Create some</a>."
+msgstr "尚未建立菜单。<a href=\"%s\">创建</a>."
+
+#: library/widgets.php:173
+msgid "Select Menu:"
+msgstr "选择菜单："
+
+#: library/widgets.php:192
+msgid "Login form"
+msgstr "登录表单"
+
+#: library/widgets.php:193
+msgid "Login"
+msgstr "登入"
+
+#: library/widgets.php:208
+msgid "Dashboard"
+msgstr "仪表盘"
+
+#: library/widgets.php:210
+msgid "Publish"
+msgstr "发布"
+
+#: library/widgets.php:211
+msgid "Comments"
+msgstr "评论"
+
+#: library/widgets.php:213
+msgid "Log out"
+msgstr "退出登录"
+
+#: library/widgets.php:216 library/widgets.php:225
+msgid "Log In"
+msgstr "登录"
+
+#: library/widgets.php:220
+msgid "Username"
+msgstr "帐号"
+
+#: library/widgets.php:221
+msgid "Password"
+msgstr "密码"
+
+#: library/widgets.php:228
+msgid "Remember Me"
+msgstr "记住密码"
+
+#: library/widgets.php:232
+msgid "Register"
+msgstr "注册"
+
+#: library/widgets.php:233
+msgid "Lost your password?"
+msgstr "忘记密码？"
+
+#~ msgid "Mailto"
+#~ msgstr "联系站长"
+
+#~ msgid "Featured Image"
+#~ msgstr "特色图片"
+
+#~ msgid "SEO Auto Link"
+#~ msgstr "SEO自动链接"
+
+#~ msgid "Headings for the posts page"
+#~ msgstr "用于文章页面的标题"
+
+#~ msgid "Header"
+#~ msgstr "页眉"
+
+#~ msgid "Excerpt"
+#~ msgstr "摘录"
+
+#~ msgid "Headings for the single post or page"
+#~ msgstr "用于单篇文章或页面的标题"
+
+#~ msgid "..."
+#~ msgstr "..."
+
+#, fuzzy
+#~ msgid "keyword|max_link_num|link_url"
+#~ msgstr "关键词|最大链接数|链接地址"
+
+#~ msgid "Previous Post: %link"
+#~ msgstr "较旧文章： %link"
+
+#~ msgid "Next Post: %link"
+#~ msgstr "较新文章： %link"
+
+#, fuzzy
+#~ msgid "Share code #%s:"
+#~ msgstr "广告代码 #%s:"
+
+#~ msgid "Bookmarks"
+#~ msgstr "书签"
+
+#~ msgid "Author Archives: %s"
+#~ msgstr "Archivi autore: %s"
+
+#~ msgid "About %s"
+#~ msgstr "Info su %s"
+
+#~ msgid "Comments are closed."
+#~ msgstr "I commenti sono chiusi."
+
+#~ msgid "http://wordpress.org/"
+#~ msgstr "http://wordpress.org/"
+
+#~ msgid "Semantic Personal Publishing Platform"
+#~ msgstr "Piattaforma personale di pubblicazione semantica"
+
+#~ msgid "Proudly powered by %s."
+#~ msgstr "Motore utilizzato %s."
+
+#~ msgid "Berries"
+#~ msgstr "Berries"
+
+#~ msgid "Cherry Blossoms"
+#~ msgstr "Cherry Blossoms"
+
+#~ msgid "Concave"
+#~ msgstr "Concave"
+
+#~ msgid "Fern"
+#~ msgstr "Fern"
+
+#~ msgid "Forest Floor"
+#~ msgstr "Forest Floor"
+
+#~ msgid "Inkwell"
+#~ msgstr "Inkwell"
+
+#~ msgid "Path"
+#~ msgstr "Percorso"
+
+#~ msgid "Sunset"
+#~ msgstr "Tramonto"
+
+#~ msgid "Search results for %s"
+#~ msgstr "Risultati della ricerca per %s"
+
+#~ msgid "Page %s"
+#~ msgstr "Pagina %s"
+
+#~ msgid "The primary widget area"
+#~ msgstr "L'area widget primaria"
+
+#~ msgid "The secondary widget area"
+#~ msgstr "L'area widget secondaria"
+
+#~ msgid "The first footer widget area"
+#~ msgstr "La prima area widget del piè pagina"
+
+#~ msgid ""
+#~ "<span class=\"%1$s\">Posted on</span> %2$s <span class=\"meta-sep\">by</"
+#~ "span> %3$s"
+#~ msgstr ""
+#~ "<span class=\"%1$s\">Pubblicato il</span> %2$s <span class=\"meta-sep"
+#~ "\">da</span> %3$s"
+
+#~ msgid ""
+#~ "This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s"
+#~ "\" title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Questa voce è stata pubblicata in %1$s e contrassegnata con %2$s. "
+#~ "Contrassegna il <a href=\"%3$s\" title=\"Permalink a %4$s\" rel=\"bookmark"
+#~ "\">permalink</a>."
+
+#~ msgid ""
+#~ "This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+#~ "\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+#~ msgstr ""
+#~ "Questa voce è stata pubblicata in %1$s. Contrassegna il <a href=\"%3$s\" "
+#~ "title=\"Permalink a %4$s\" rel=\"bookmark\">permalink</a>."
+
+#~ msgid ""
+#~ "Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+#~ "\">permalink</a>."
+#~ msgstr ""
+#~ "Contrassegna il <a href=\"%3$s\" title=\"Permalink a %4$s\" rel=\"bookmark"
+#~ "\">permalink</a>."
+
+#~ msgid ""
+#~ "Apologies, but no results were found for the requested archive. Perhaps "
+#~ "searching will help find a related post."
+#~ msgstr ""
+#~ "Spiacente, ma non sono stati trovati risultati per l'archivio richiesto. "
+#~ "Forse fare una ricerca potrebbe aiutare."
+
+#~ msgctxt "gallery category slug"
+#~ msgid "gallery"
+#~ msgstr "galleria"
+
+#~ msgid "This gallery contains <a %1$s>%2$s photos</a>."
+#~ msgstr "Questa galleria contiene  <a %1$s>%2$s fotografie</a>."
+
+#~ msgid "View posts in the Gallery category"
+#~ msgstr "Visualizza gli articoli nella categoria Gallery"
+
+#~ msgid "More Galleries"
+#~ msgstr "Altre gallerie"
+
+#~ msgctxt "asides category slug"
+#~ msgid "asides"
+#~ msgstr "divagazioni"
+
+#~ msgid "Meta"
+#~ msgstr "Meta"
+
+#~ msgctxt "Previous post link"
+#~ msgid "&larr;"
+#~ msgstr "&larr;"
+
+#~ msgctxt "Next post link"
+#~ msgid "&rarr;"
+#~ msgstr "&rarr;"
+
+#~ msgid "View all posts by %s <span class=\"meta-nav\">&rarr;</span>"
+#~ msgstr ""
+#~ "Visualizza tutti gli articoli di %s <span class=\"meta-nav\">&rarr;</span>"
+
+#~ msgid "Tag Archives: %s"
+#~ msgstr "Archivi tag: %s"
+
+#~ msgid "Twenty Ten"
+#~ msgstr "Twenty Ten"
+
+#~ msgid "The 2010 default theme for WordPress."
+#~ msgstr "Il tema standard per il 2010 di WordPress."
+
+#~ msgid "the WordPress team"
+#~ msgstr "Il team di WordPress"
+
+#~ msgid ""
+#~ "black, blue, white, two-columns, fixed-width, custom-header, custom-"
+#~ "background, threaded-comments, sticky-post, translation-ready, "
+#~ "microformats, rtl-language-support, editor-style"
+#~ msgstr ""
+#~ "black, blue, white, two-columns, fixed-width, custom-header, custom-"
+#~ "background, threaded-comments, sticky-post, translation-ready, "
+#~ "microformats, rtl-language-support, editor-style"
